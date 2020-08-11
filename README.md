@@ -1,3 +1,5 @@
-Bootstrap Template - One Pager with Full Width Slider
+Bootstrap Page Template
 
-This features a fixed navbar and full width image carousel
+One-pager 
+
+This features a fixed navbar and full width image carousel.
