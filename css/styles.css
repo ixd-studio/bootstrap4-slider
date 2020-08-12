@@ -75,7 +75,12 @@ p.black{
 
 .landing-sec {
   padding: 3rem;
+  margin-bottom: 0em;
+  padding-bottom: 0em;
 
+}
+.landing-sec:last-child{
+  padding-bottom:3rem;
 }
 .landing-sec-H {
   font-size: 2rem;
